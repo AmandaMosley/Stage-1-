@@ -1,27 +1,54 @@
-# Executive Memo on Oxford Industries Inc. and Accounting Ratio Analysis
+# Oxford Industries Inc (OXM) – Stage 1 Executive Memo
 
-**Date:** 2026-04-02  
-**Prepared by:** Amanda Mosley  
-
-## Introduction
-This memo provides an analysis of Oxford Industries Inc. through the lens of key accounting ratios. Understanding these ratios is crucial for evaluating the company's financial health and operational efficiency.
-
-## Overview of Oxford Industries Inc.
-Oxford Industries Inc. is a leading apparel company that designs, markets, and distributes a diverse range of products. With a strong focus on brand-building and strategic retail partnerships, the company has achieved significant market presence.
-
-## Accounting Ratio Analysis
-### 1. Liquidity Ratios
-- **Current Ratio:** This ratio measures the ability of the company to cover its short-term liabilities with its short-term assets. A current ratio above 1 indicates a healthy liquidity position.
-  
-### 2. Profitability Ratios
-- **Profit Margin:** This ratio indicates how much profit a company makes for every dollar of sales. A higher profit margin signifies more efficient management.
-
-### 3. Efficiency Ratios
-- **Asset Turnover Ratio:** This ratio measures the efficiency of a company's use of its assets to generate sales revenue. 
-
-### Conclusion
-In conclusion, accounting ratio analysis serves as a powerful tool for stakeholders to assess Oxford Industries Inc.'s financial stability and operational efficiency. Continuous monitoring and analysis can guide strategic decisions and enhance the company's growth trajectory.
+**Created by:** Amanda Mosley  
+**Updated by:** Amanda Mosley  
+**Date Created:** April 1, 2026  
+**Date Updated:** April 1, 2026  
+**Version:** 1.0  
+**LLM Used:** ChatGPT (GPT-5.3)
 
 ---
 
-**End of Memo**
+## Executive Summary (150 words max)
+
+This memo outlines the value and approach of conducting a comprehensive accounting ratio analysis for Oxford Industries Inc (OXM), a publicly traded apparel company specializing in lifestyle brands such as Tommy Bahama and Lilly Pulitzer. Ratio analysis will provide a structured, data-driven view of the company’s financial health beyond raw financial statements. By evaluating performance, profitability, efficiency, leverage, liquidity, and DuPont relationships, we aim to identify trends, strengths, and potential risks. The analysis will support strategic financial decision-making, including capital allocation, cost management, and operational improvements. Subsequent stages will build a detailed Excel model, technical documentation, and a final strategic recommendation memo.
+
+---
+
+## Company Background & Objectives
+
+Oxford Industries Inc operates in the retail/apparel industry, designing and marketing premium lifestyle clothing brands. The objective of this analysis is to assess the company’s recent financial performance and overall health. While financial statements provide raw data, ratio analysis transforms that data into meaningful insights, helping leadership understand operational efficiency, profitability drivers, risk exposure, and short-term financial stability.
+
+---
+
+## Approach
+
+This analysis will focus on six key ratio categories:
+
+- **Performance:** Measures overall returns (e.g., ROA, ROE) to evaluate effectiveness in generating income.  
+- **Profitability:** Assesses margins (gross, operating, net) to understand earnings quality.  
+- **Efficiency:** Evaluates asset utilization (inventory turnover, asset turnover).  
+- **Leverage:** Examines debt usage and financial risk (debt-to-equity, interest coverage).  
+- **Liquidity:** Measures short-term financial health (current ratio, quick ratio).  
+- **DuPont Analysis:** Breaks down ROE into profit margin, asset turnover, and leverage for deeper insight.
+
+Data will be sourced from SEC EDGAR (10-K filings), the company’s investor relations page, and financial platforms like Yahoo Finance.
+
+---
+
+## Limitations & Next Steps
+
+Limitations include reliance on historical financial data and potential differences in accounting policies across periods. External factors (market trends, inflation) may also impact interpretation.
+
+**Next Steps:**
+- **Stage 2:** Build an Excel model calculating all ratios using real financial data.  
+- **Stage 3:** Develop a technical specification detailing formulas, structure, and lessons learned.  
+- **Stage 4:** Deliver a final memo with strategic insights, recommendations, and an AI-assisted analysis prompt.
+
+---
+
+## References
+
+- SEC EDGAR Database (10-K Filings)  
+- Oxford Industries Investor Relations  
+- Yahoo Finance  
